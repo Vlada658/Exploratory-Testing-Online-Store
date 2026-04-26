@@ -13,3 +13,5 @@
 
 **Ссылка на приложение:**
 https://intern.demoshopping.ru/
+
+Результат: https://docs.google.com/spreadsheets/d/12T3Z6_6iLJ4SpXitqcvJBH-s57R0OGhdxPYnZiwA2PY/edit?usp=sharing
